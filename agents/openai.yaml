@@ -1,0 +1,7 @@
+interface:
+  display_name: "论文讲解手册"
+  short_description: "逐图读论文并生成中文讲解手册"
+  default_prompt: "使用 $paper-explainer 阅读我上传的论文和支持材料，生成中文论文讲解手册。"
+
+policy:
+  allow_implicit_invocation: true
